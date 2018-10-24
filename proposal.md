@@ -1,4 +1,4 @@
-# X-Team NN Paired Programming Matcher
+# X-Team 42 Paired Programming Matcher
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -46,7 +46,7 @@ Jack
 
 
 
-4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
+4. User Interface: The user interface will be comprised of a text menu with prompts for the required inputs.
 
 
 
