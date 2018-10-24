@@ -66,7 +66,7 @@ Billy Johnson
 
 
 
-5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+5. Types List: Types List: Our solution will use a Student object that holds grades, free time, age, section, name, phone number, and email.  Our solution will sort students into an AVL or B tree that seperates students depending on the data they provided. 
 
 
 
