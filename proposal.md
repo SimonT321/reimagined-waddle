@@ -39,7 +39,16 @@ A common struggle among CS students is finding a compatible partner to collabora
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
+When a user runs this program, the output will be an ordered list of people that would be good partners. The output will be a person’s name and their contact information that they provided. An example of the output could be:
 
+1.	Jack Pientka
+Email: jpientka@wisc.edu
+Phone: 608-770-7529
+2.	Simon Theuer
+Email: n/a
+Phone: 555-5555-555
+
+The list of names would continue for an arbitrary amount of people; likely around 10 names as someone will likely find a partner within 10 names. 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
