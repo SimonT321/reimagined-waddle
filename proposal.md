@@ -1,4 +1,4 @@
-# X-Team 42 Paired Programming Matcher
+# X-Team 42 Paired Programming Matchmaker
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -29,14 +29,13 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+A common struggle among CS students is finding a compatible partner to collaborate with on programs. Although some students use Piazza to find a partner, it is hard to know if he/she is truly the right partner for you. A program that can be used to solve this problem is the Paired Programming Matchmaker. The Paired Programming Matchmaker will use qualities such as age, grades, and amount of free time to create a list of potential partners for a student based on his/her own input. The list of potential students will contain their name, phone number and email. The student looking for a partner may then choose whoever they want from the list with confidence that they will work well together. 
 
 ## Questions to answer for Exercise #2
 
-1. Name: Paired Programming Matcher
+1. Name: Paired Programming Matchmaker
 
-Jack
+
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
