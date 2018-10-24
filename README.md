@@ -1,4 +1,4 @@
-# xteam-exercise-2: https://github.com/<UserName>/<GitHubRepositoryName>
+# reimagined-waddle: https://github.com/SimonT321/reimagined-waddle<SimonT321>/<reimagined-waddle>
 
 1. Edit the title of this document
    * Replace <UserName> with the user name of the team member who created shared repository
