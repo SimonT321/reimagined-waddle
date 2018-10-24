@@ -10,7 +10,7 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-
+Volunteer first, and then if there are still assignments left then we will all talk about who is best suited to work on the task. If this fails the team leader will step in to help delegate tasks. 
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
