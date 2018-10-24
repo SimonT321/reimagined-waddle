@@ -55,11 +55,17 @@ The list of names would continue for an arbitrary amount of people; likely aroun
 The user would need to input their name, section number, phone number, age (1 = freshman, 2 = sophomore, 3 = junior, 4 = senior, 5 = other), grade in the class (points they've gotten out of the total points in the class so far), and the amount of free time they have (on a scale of 1-5) as well as a ranking for age, grade in class, and amount of free time for what is most important to match up with them next to their input for that category with a space between (1 being most important and 3 being least).
 
 Example input:
+
 Billy Johnson
+
 2
+
 1234567890
+
 3 3
+
 75 1
+
 3 2
 
 4. User Interface: The user interface will be comprised of a text menu with prompts for the required inputs.
