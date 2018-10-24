@@ -1,4 +1,4 @@
-# reimagined-waddle: https://github.com/SimonT321/reimagined-waddle<SimonT321>/<reimagined-waddle>
+# x-team-exercise-2: https://github.com/<SimonT321>/<reimagined-waddle>
 
 1. Edit the title of this document
    * Replace <UserName> with the user name of the team member who created shared repository
@@ -7,13 +7,15 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1:       name 1:
-       * GitHub username 2:       name 2:
-       * GitHub username 3:       name 3:
-       * GitHub username 4:       name 4:
+       * GitHub username 1: SimonT321      name 1: Simon Theuer
+       * GitHub username 2: JackPientka    name 2: Jack Pientka
+       * GitHub username 3: bluettgen      name 3: Brianna Luettgten
+       * GitHub username 4: esberes        name 4: Ellie Beres
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 
+   October 24, 5:30PM
    * How long did it take your team to complete this exercise? 
+   1:30
 
 ## Table of Contents
 
