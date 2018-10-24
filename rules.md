@@ -22,9 +22,11 @@ We've established that if we are having a difficult time individually, then we w
 
 ## How we will back up each other to ensure that deadlines are not missed
 
-
+If a task is not done, then we will communicate with each other on how and when a task will be done. Also, we will try to circumvent missing deadlines by starting early and working efficiently.
 
 ## Add any other rules that your team establishes to help each other work effectively together
 
+Make meeting times that everyone (or most) can attend.
 
+If you cannot make a meeting, communicate with the team.
 
