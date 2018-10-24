@@ -76,7 +76,9 @@ Billy Johnson
 
 
 Main.java- This class will prompt for user data and call on other classes.
+
 StudentInfo.java- Creates a student object w/ passed in information from Main calss.
+
 Sorting.java- Sets up data structure and sorts accordingly.
 
 
