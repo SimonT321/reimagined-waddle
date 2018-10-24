@@ -9,7 +9,7 @@
    * What are the GitHub usernames and names of your team members?
        * GitHub username 1: SimonT321      name 1: Simon Theuer
        * GitHub username 2: JackPientka    name 2: Jack Pientka
-       * GitHub username 3: bluettgen      name 3: Brianna Luettgten
+       * GitHub username 3: bluettgen      name 3: Brianna Luettgen
        * GitHub username 4: esberes        name 4: Ellie Beres
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 
