@@ -18,7 +18,7 @@ We will keep in touch with each other on Thursdays at our weekly meetings. Addit
 
 ## How will will communicate difficulties with a task assigned to us
 
-
+We've established that if we are having a difficult time individually, then we will talk it through together. We will also communicate in github using tags to help see the problem.
 
 ## How we will back up each other to ensure that deadlines are not missed
 
