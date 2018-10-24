@@ -14,7 +14,7 @@ Volunteer first, and then if there are still assignments left then we will all t
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
-
+We will keep in touch with each other on Thursdays at our weekly meetings. Additionally, we will set soft deadlines, so everyone is content with where we are in the program. We will use text and email to keep in touch throughout the week when we do not meet in person. 
 
 ## How will will communicate difficulties with a task assigned to us
 
