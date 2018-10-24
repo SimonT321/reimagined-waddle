@@ -58,15 +58,19 @@ Example input:
 
 Billy Johnson
 
-2
+002
 
 1234567890
 
-3 3
+3
 
-75 1
+75
 
-3 2
+3
+
+Free time: 2
+Age: 1
+Grade: 3
 
 4. User Interface: The user interface will be comprised of a text menu with prompts for the required inputs.
 
