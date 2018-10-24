@@ -75,8 +75,9 @@ Billy Johnson
 5. Types List: Types List: Our solution will use a Student object that holds grades, free time, age, section, name, phone number, and email.  Our solution will sort students into an AVL or B tree that seperates students depending on the data they provided. 
 
 
-
-Name each interface or class and briefly describe its function or purpose.
+Main.java- This class will prompt for user data and call on other classes.
+StudentInfo.java- Creates a student object w/ passed in information from Main calss.
+Sorting.java- Sets up data structure and sorts accordingly.
 
 
 ## Edit and Submit this file and any figures referenced by this document.
