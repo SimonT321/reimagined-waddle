@@ -74,7 +74,7 @@ Grade: 3
 
 4. User Interface: The user interface will be comprised of a text menu with prompts for the required inputs.
 
-
+Please see figure 1. 
 
 5. Types List: Types List: Our solution will use a Student object that holds grades, free time, age, section, name, phone number, and email.  Our solution will sort students into an AVL or B tree that seperates students depending on the data they provided. Our project will also use JUnit to ensure proper behavior given certain inputs.
 
