@@ -76,7 +76,7 @@ Grade: 3
 
 
 
-5. Types List: Types List: Our solution will use a Student object that holds grades, free time, age, section, name, phone number, and email.  Our solution will sort students into an AVL or B tree that seperates students depending on the data they provided. 
+5. Types List: Types List: Our solution will use a Student object that holds grades, free time, age, section, name, phone number, and email.  Our solution will sort students into an AVL or B tree that seperates students depending on the data they provided. Our project will also use JUnit to ensure proper behavior given certain inputs.
 
 
 Main.java- This class will prompt for user data and call on other classes.
